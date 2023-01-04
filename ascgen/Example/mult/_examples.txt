@@ -1,0 +1,31 @@
+-t  m_bezp    9         -7         -p  10      -o  mult_bezp.txt -e
+-t  m_bezp    4,75      0,125      -p  10      -o  mult_bezp.txt
+-t  m_bezp    -0,75     37         -p  10      -o  mult_bezp.txt
+-t  m_bezp    13        11,5       -p  10      -o  mult_bezp.txt
+-t  m_bezp    11,011    -10,1      -p  2       -o  mult_bezp.txt
+-t  m_bezp    -11011    110                    -o  mult_bezp.txt
+-t  m_bezp    -11011    0                      -o  mult_bezp.txt
+-t  m_bezp    0         110                    -o  mult_bezp.txt
+-t  m_bezp    0         0                      -o  mult_bezp.txt
+
+-t  m_bgn    9         -7         -p  10      -o  mult_bgn.txt -e
+-t  m_bgn    4,75      0,125      -p  10      -o  mult_bgn.txt
+-t  m_bgn    -0,75     37         -p  10      -o  mult_bgn.txt
+-t  m_bgn    13        11,5       -p  10      -o  mult_bgn.txt
+-t  m_bgn    11,011    -10,1      -p  2       -o  mult_bgn.txt
+-t  m_bgn    -11011    110                    -o  mult_bgn.txt
+-t  m_bgn    -11011    0                      -o  mult_bgn.txt
+-t  m_bgn    0         110                    -o  mult_bgn.txt
+-t  m_bgn    0         0                      -o  mult_bgn.txt
+-t  m_bgn    1.00,0    -1                     -o  mult_bgn.txt
+
+-t  m_rob    9         -7         -p  10      -o  mult_rob.txt -e
+-t  m_rob    4,75      0,125      -p  10      -o  mult_rob.txt
+-t  m_rob    -0,75     37         -p  10      -o  mult_rob.txt
+-t  m_rob    13        11,5       -p  10      -o  mult_rob.txt
+-t  m_rob    11,011    -10,1      -p  2       -o  mult_rob.txt
+-t  m_rob    -11011    110                    -o  mult_rob.txt
+-t  m_rob    -11011    0                      -o  mult_rob.txt
+-t  m_rob    0         110                    -o  mult_rob.txt
+-t  m_rob    0         0                      -o  mult_rob.txt
+-t  m_rob    1.00,0    -1                     -o  mult_rob.txt

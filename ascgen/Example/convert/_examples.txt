@@ -1,0 +1,24 @@
+-t   k_il   15,125       -p 10   -n 2             -o  konw_il.txt -e
+-t   k_il   15,125       -p 10   -n 16            -o  konw_il.txt
+-t   k_il   1001,101     -p 2    -n 10            -o  konw_il.txt
+-t   k_il   1001,101     -p 2    -n 16            -o  konw_il.txt
+-t   k_il   7,3          -p 10   -n 2             -o  konw_il.txt
+-t   k_il   0            -p 10   -n 2             -o  konw_il.txt
+-t   k_il   0,0          -p 10   -n 2             -o  konw_il.txt
+-t   k_il   7,0          -p 10   -n 2             -o  konw_il.txt
+-t   k_il   3A,AC1       -p 16   -n 10            -o  konw_il.txt
+-t   k_il   3A,AC1       -p 16   -n 10  -d 2      -o  konw_il.txt
+-t   k_il   3A,AC1       -p 16   -n 10  -d 20     -o  konw_il.txt
+
+-t   k_roz  15,125       -p 10   -n 2             -o  konw_roz.txt -e
+-t   k_roz  153,625      -p 10   -n 2             -o  konw_roz.txt
+-t   k_roz  0            -p 10   -n 2             -o  konw_roz.txt 
+-t   k_roz  0,0          -p 10   -n 2             -o  konw_roz.txt 
+-t   k_roz  3,0          -p 10   -n 2             -o  konw_roz.txt 
+-t   k_roz  371,34       -p 10   -n 16            -o  konw_roz.txt
+-t   k_roz  371,34       -p 10   -n 16  -d 10     -o  konw_roz.txt
+-t   k_roz  29AB,CF      -p 16   -n 10            -o  konw_roz.txt
+-t   k_roz  10111,1      -p 2    -n 10            -o  konw_roz.txt
+-t   k_roz  10111,11     -p 2    -n 10            -o  konw_roz.txt
+-t   k_roz  10111,111    -p 2    -n 10            -o  konw_roz.txt
+-t   k_roz  10111,1111   -p 2    -n 10            -o  konw_roz.txt

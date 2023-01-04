@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\strmath_tests">
+      <UniqueIdentifier>{cef3f9bf-5abc-4f3d-88fb-1d2310e12dbd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\shared_tests">
+      <UniqueIdentifier>{33730d12-4f75-47e6-8866-f8db6a7d33aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\stdextension_tests">
+      <UniqueIdentifier>{090f7c4f-5ee2-4c35-a864-f4c9c38af1e3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="to_ascnumber.cpp">
+      <Filter>Source Files\strmath_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="is_greater.cpp">
+      <Filter>Source Files\strmath_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="int_to_str.cpp">
+      <Filter>Source Files\strmath_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="str_to_int.cpp">
+      <Filter>Source Files\strmath_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="decimal_convert.cpp">
+      <Filter>Source Files\strmath_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="whole_convert.cpp">
+      <Filter>Source Files\strmath_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="str_multiply.cpp">
+      <Filter>Source Files\strmath_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="str_divide.cpp">
+      <Filter>Source Files\strmath_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="str_subtract.cpp">
+      <Filter>Source Files\strmath_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="str_add.cpp">
+      <Filter>Source Files\strmath_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="compliment.cpp">
+      <Filter>Source Files\strmath_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="expand.cpp">
+      <Filter>Source Files\strmath_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="shift_left.cpp">
+      <Filter>Source Files\shared_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="shift_result.cpp">
+      <Filter>Source Files\shared_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="pad_space.cpp">
+      <Filter>Source Files\stdextension_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="trim_leading.cpp">
+      <Filter>Source Files\stdextension_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="value_at.cpp">
+      <Filter>Source Files\stdextension_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="strcat_b.cpp">
+      <Filter>Source Files\stdextension_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="str_reverse.cpp">
+      <Filter>Source Files\stdextension_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="is_zero.cpp">
+      <Filter>Source Files\stdextension_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="is_all.cpp">
+      <Filter>Source Files\stdextension_tests</Filter>
+    </ClCompile>
+    <ClCompile Include="ascvalue.cpp">
+      <Filter>Source Files\stdextension_tests</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

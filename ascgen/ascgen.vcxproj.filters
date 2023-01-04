@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="add8421.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="addbin.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="addex3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="conversion.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="divnr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="multbezp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="multbgn.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="multrob.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="parsing.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="program.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="shared.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="stdextension.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="strmath.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="add8421.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="addbin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="addex3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="conversion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="divnr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="multbezp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="multbgn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="multrob.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="parsing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="program.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shared.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="stdextension.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="strmath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="result.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{05f76e61-4bb0-4d66-8ef2-42fa8c5d83fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{5399ab7e-94c2-4229-9d83-2a6964e2568f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

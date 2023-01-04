@@ -1,0 +1,7 @@
+-t  dz_nres     0,125      0,5         -p  10   -d 8   -o  dziel.txt -e
+-t  dz_nres     -0,125     0,25        -p  10   -d 10  -o  dziel.txt
+-t  dz_nres     5          -1,25       -p  10          -o  dziel.txt
+-t  dz_nres     -5         -100        -p  10          -o  dziel.txt
+-t  dz_nres     0,125      0,5         -p  10          -o  dziel.txt
+-t  dz_nres     0,125      0,5         -p  10   -d 10  -o  dziel.txt
+-t  dz_nres     0,0111     -0,1001                     -o  dziel.txt

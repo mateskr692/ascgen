@@ -1,0 +1,26 @@
+-t  d_mod_8421     17,5      3,125      -p  10      -o  dod_mod.txt -e
+-t  d_mod_8421     9         -7                     -o  dod_mod.txt
+-t  d_mod_8421     -7        9                      -o  dod_mod.txt
+-t  d_mod_8421     4a,1      B,C        -p  16      -o  dod_mod.txt
+-t  d_mod_8421     -A        -0,FF      -p  16      -o  dod_mod.txt
+-t  d_mod_8421     111,01    0,1101     -p  2       -o  dod_mod.txt
+-t  d_mod_8421     000,01    111,111    -p  2       -o  dod_mod.txt
+-t  d_mod_8421     0.1,42    1.13,012   -p  10      -o  dod_mod.txt
+
+-t  d_odw_8421     17,5      3,125      -p  10      -o  dod_odw.txt -e
+-t  d_odw_8421     -0,75     5,25                   -o  dod_odw.txt
+-t  d_odw_8421     19,5      15                     -o  dod_odw.txt
+-t  d_odw_8421     -17,5     -3,125     -p  10      -o  dod_odw.txt
+-t  d_odw_8421     -7        -9         -p  10      -o  dod_odw.txt
+-t  d_odw_8421     101,11    -001,11    -p  2       -o  dod_odw.txt
+-t  d_odw_8421     -111,11   -0,01      -p  2       -o  dod_odw.txt
+-t  d_odw_8421     0.1,42    1.13,012   -p  10      -o  dod_odw.txt
+
+-t  d_dop_8421     17,5      3,125      -p  10      -o  dod_dop.txt -e
+-t  d_dop_8421     -0,75     5,25                   -o  dod_dop.txt
+-t  d_dop_8421     19,5      15                     -o  dod_dop.txt
+-t  d_dop_8421     -7        -9         -p  10      -o  dod_dop.txt
+-t  d_dop_8421     -17,5     -3,125     -p  10      -o  dod_dop.txt
+-t  d_dop_8421     101,11    -001,11    -p  2       -o  dod_dop.txt
+-t  d_dop_8421     -111,11   -0,01      -p  2       -o  dod_dop.txt
+-t  d_dop_8421     0.1,42    1.13,012   -p  10      -o  dod_dop.txt
